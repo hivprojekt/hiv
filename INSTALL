@@ -1,0 +1,9 @@
+Building HIVcoin
+
+See doc/readme-qt.rst for instructions on building HIVcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HIVcoin.
+
+See doc/build-*.txt for instructions on building HIVcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of HIVcoin.
